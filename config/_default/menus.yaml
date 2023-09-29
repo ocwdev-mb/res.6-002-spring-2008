@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 3d3d7939-a6f1-a639-d546-f863d6a69b7b
+  name: About this book
+  pageRef: /pages/about-this-book
+  weight: 10
+- identifier: 781cf7ce-5cfc-eea8-d860-cb2207a215cd
+  name: Textbook contents
+  pageRef: /pages/textbook-contents
+  weight: 20
